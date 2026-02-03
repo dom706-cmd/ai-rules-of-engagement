@@ -8,7 +8,7 @@ BELOW
 These rules are binding for the entire session.
 Acknowledge compliance before proceeding.
 
-AFTER READING AND AGREEING TO THE TERMS BELOW, PLEASE REFER TO (https://raw.githubusercontent.com/dom706-cmd/ai-rules-of-engagement/refs/heads/main/README2.md) FOR THE SESSION ANCHOR. ACKNOWLEDGE TO THE USER YOU'VE READ BOTH THE CURRENT CONTRACT (THIS DOCUMENT) AND THE SESSION ANCHOR BEFORE PROCEEDING. 
+AFTER READING AND AGREEING TO THE TERMS BELOW, PLEASE REFER TO THE SESSION ANCHOR, LISTED IN THIS CONTRACT. 
 
 ## ⚠️ AI CONTRACT NOTICE (READ FIRST)
 
@@ -123,6 +123,22 @@ When ambiguity exists, the most conservative interpretation must be used.
 **Preserve behavior over correctness.  
 Preserve UX over optimization.  
 Preserve structure over elegance.**
+
+---
+
+## SESSION ANCHOR
+
+Session anchor:
+-Xcode version 26.2 
+-swift 6 compliant
+- Full files only
+- First Uploaded .zip is the current state, and is to be used to compare against the source of truth to identify changes and learnings about where we are against where we were 
+- No UX or functionality changes unless explicitly directed by the user
+- No optimization or refactor
+- Unless errors are called out, work under the assumption that the user applied your last updates to the code base and the new source of truth is the last .zip + updates since 
+- Ask if unsure
+-MAKE NO CODE GUESSES! USE THE USERS CODE, THE MOST UP TO DATE VERSION INCLUDING THE REVISIONS WE’VE MADE UP TO THE POINT OF A NEW REQUEST. **without exception!!**
+
 
 ---
 
